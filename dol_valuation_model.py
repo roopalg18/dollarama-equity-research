@@ -1,7 +1,7 @@
 """
 Dollarama Inc. (TSX: DOL) - Initiating Coverage Valuation Model
 ================================================================
-Author: Roopal Gahlain
+Author: Roopal
 Purpose: Reproducible DCF + comparable-company valuation supporting an
          initiating-coverage equity research note.
 
