@@ -29,7 +29,7 @@ This prints the financial summary, the DCF free-cash-flow build, the comps table
 
 > Educational project. Not investment advice.
 
-Author: **Roopal Gahlain**
+Author: **Roopal
 
 ## Related work
 See also: [`dollarama-wc-analysis`](https://github.com/roopalg18/dollarama-wc-analysis) — a separate working-capital efficiency study on the same company.
