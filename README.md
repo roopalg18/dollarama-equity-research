@@ -1,4 +1,4 @@
-# Dollarama Inc. (TSX: DOL) — Initiating Coverage
+# Dollarama Inc. (TSX: DOL) - Initiating Coverage
 
 An independent equity research initiating-coverage note on **Dollarama Inc. (TSX: DOL)**, built end to end: company analysis, financial model, DCF and comparable-company valuation, rating, price target, risks, and catalysts.
 
